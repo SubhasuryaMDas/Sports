@@ -1,0 +1,7 @@
+stick
+ball
+22 players
+gol post
+mat
+refree
+helmet
